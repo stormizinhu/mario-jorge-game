@@ -10,7 +10,7 @@ Um jogo codado em uma live do curso de Junior Fullstack Developer da StartSe / T
 
 - `HTML`
 - `CSS`
-- `JavaScritp`
+- `JavaScript`
 
 ## Instalação
 
