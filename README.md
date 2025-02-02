@@ -20,5 +20,4 @@ Instruções para rodar o projeto localmente na sua máquina.
    ```bash
    git clone https://github.com/stormizinhu/mario-jorge-game.git
 
-
-### © by Stormizinhu - 2024
+### © by Stormizinhu - 2022
